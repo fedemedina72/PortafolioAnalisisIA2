@@ -1,2 +1,5 @@
 # PortafolioAnalisisIA2
-Portafolio de Análisis para la clase TC3007C
+**Portafolio para la clase Inteligencia Artificial Avanzada para la Ciencia de Datos, Grupo 501**
+
+
+Dentro del portafolio se encuentran distintos archivos importantes: [Equipo 8. Retroalimentación Reto Privacidad Datos.pdf](Equipo 8. Retroalimentación Reto Privacidad Datos.pdf) 
