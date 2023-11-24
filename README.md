@@ -4,9 +4,9 @@
 
 Dentro del portafolio se encuentran distintos archivos importantes: 
 
-- Equipo 8. Retroalimentación Reto Privacidad Datos.pdf
-- Actividad 1. La Normal Multivariada
-- Actividad 2. Componentes Principales
+- [Equipo 8. Retroalimentación Reto Privacidad Datos.pdf](https://github.com/fedemedina72/PortafolioAnalisisIA2/blob/main/Equipo%208.%20Retroalimentación%20Reto%20Privacidad%20Datos.pdf)
+- Actividad 1. [La Normal Multivariada](NormalMultivariada.pdf)
+- Actividad 2. [Componentes Principales](ComponentesPrincipales.pdf)
 - Actividad 3. [Procesos Poisson](ActividadPoisson.pdf)
 
 
