@@ -7,7 +7,7 @@ Dentro del portafolio se encuentran distintos archivos importantes:
 - Equipo 8. Retroalimentación Reto Privacidad Datos.pdf
 - Actividad 1. La Normal Multivariada
 - Actividad 2. Componentes Principales
-- Actividad 3. Procesos Poisson
+- Actividad 3. [Procesos Poisson](ActividadPoisson.pdf)
 
 
 ## Reto Privacidad y Seguridad de los Datos
