@@ -12,6 +12,7 @@ Dentro del portafolio se encuentran distintos archivos importantes:
 - Cloud computing: [Actividad 6 - Cloud migration](CloudMigration_Equipo8.pdf)
 - Cloud computing: [Diseño de Arquitectura en la Nube](DisenoCloud_Equipo8.pdf)
 - [Implementación de un modelo de Deep Learning](Implementación_de_un_Modelo_de_Deep_Learning.pdf)
+- [Evidencia Big Data](Portafolio_BigData.pdf)
 
 
 ## Equipo 8. Retroalimentación Reto Privacidad Datos.pdf
@@ -38,3 +39,5 @@ En esta actividad se muestran todos los pasos de cómo se diseńó una arquitect
 ## Implementación de un modelo de Deep Learning
 Para dicha entrega se utilizó un framework de Tensorflow para entrenar un modelo de aprendizaje profundo para después evaluar su desempeño y realizar ajustes. Después, se utilizaron datos reales para probar si el modelo realmente funcionaba con datos reales y no solamente con datos con los cuales se entrenó. Finalmente se encuentran los resultados del modelo y observaciones que se hicieron del mismo.
 
+## Evidencia Big Data
+Para dicha actividad se muestra la evidencia de las herramientas que se utilizaron en el reto que se vieron durante la clase de Big Data.
