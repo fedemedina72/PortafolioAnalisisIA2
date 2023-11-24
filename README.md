@@ -11,6 +11,7 @@ Dentro del portafolio se encuentran distintos archivos importantes:
 - Actividad 3: [Procesos Poisson](ActividadPoisson.pdf)
 - Cloud computing: [Actividad 6 - Cloud migration](CloudMigration_Equipo8.pdf)
 - Cloud computing: [Diseño de Arquitectura en la Nube](DisenoCloud_Equipo8.pdf)
+- [Implementación de un modelo de Deep Learning](Implementación_de_un_Modelo_de_Deep_Learning.pdf)
 
 
 ## Equipo 8. Retroalimentación Reto Privacidad Datos.pdf
@@ -33,4 +34,7 @@ Para la actividad mostrada, se simuló que el equipo trabaja para una empresa qu
 
 ## Cloud computing | Diseño de Arquitectura en la Nube
 En esta actividad se muestran todos los pasos de cómo se diseńó una arquitectura para una empresa en donde se simuló que esta es real y que tiene ciertas problemáticas con las cuales se iban a resolver utilizando nuestra arquitectura. Igualmente se muestra el por qué de las decisiones que se tomaron y presupuestos tanto monetarios como temporales.
+
+## Implementación de un modelo de Deep Learning
+Para dicha entrega se utilizó un framework de Tensorflow para entrenar un modelo de aprendizaje profundo para después evaluar su desempeño y realizar ajustes. Después, se utilizaron datos reales para probar si el modelo realmente funcionaba con datos reales y no solamente con datos con los cuales se entrenó. Finalmente se encuentran los resultados del modelo y observaciones que se hicieron del mismo.
 
