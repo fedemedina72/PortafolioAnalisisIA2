@@ -2,7 +2,7 @@
 **Portafolio para la clase Inteligencia Artificial Avanzada para la Ciencia de Datos, Grupo 501**
 
 
-Dentro del portafolio se encuentran distintos archivos importantes: [Reto Privacidad y Seguridad de los Datos](Equipo 8. Retroalimentación Reto Privacidad Datos.pdf) y PONER EL OTRO ARCHIVO CUANDO SE HAGA.
+Dentro del portafolio se encuentran distintos archivos importantes: [Equipo 8. Retroalimentación Reto Privacidad Datos.pdf](Equipo 8. Retroalimentación Reto Privacidad Datos.pdf) y PONER EL OTRO ARCHIVO CUANDO SE HAGA.
 
 
 ## Reto Privacidad y Seguridad de los Datos
